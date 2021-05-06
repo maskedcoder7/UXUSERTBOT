@@ -16,7 +16,6 @@ beautifulsoup4
 bs4
 bwb==3.0.0
 cfscrape
-coffeehouse
 chromedriver_autoinstaller
 cowpy
 cryptg
@@ -25,7 +24,6 @@ emoji
 gTTS-token>=1.1.3
 opencv-python--headless
 youtube_search
-pornhub_api
 gTTS>=2.0.1
 opencv-python--headless
 scapy
@@ -66,14 +64,12 @@ wand
 regex
 requests>=2.18.4
 search-engine-parser>=0.4.2
-spamwatch
 selenium
 speedtest-cli>=2.0.2
 spotify_token
 spotdl
 sqlalchemy==1.3.23
 telegraph
-twitter_scraper
 html-telegraph-poster
 urbandict>=0.5
 validators
@@ -82,5 +78,4 @@ youtube-dl
 youtube-search-python
 tswift
 telethon==1.21.1
-faker
 google_trans_new
