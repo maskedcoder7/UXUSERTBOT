@@ -41,4 +41,5 @@ Enjoy Your Bot!!💝
 
 #### • ᴛᴇʟᴇʙᴏᴛ   »»  <a href="https://github.com/Xditya/telebot" alt="Telebot"> <img src="https://img.shields.io/badge/Telebot-800080?logo=github" /></a> 
 #### • ᴜʟᴛʀᴀ x   »»  <a href="https://github.com/Ultra-Op/Ultra-X" alt="UltraX"> <img src="https://img.shields.io/badge/UltraX-4B0082?logo=github" /></a> 
-#### • 
+#### • ᴅᴀʀᴋ ᴄᴏʙʀᴀ  »»  <a href="https://github.com/DARK-COBRA/DARKCOBRA" alt="DarkCobra"> <img src="https://img.shields.io/badge/DarkCobra-A9A9A9?logo=github" /></a> 
+
