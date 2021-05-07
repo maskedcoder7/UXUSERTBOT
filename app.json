@@ -78,11 +78,6 @@
       "value": "",
       "required": false
     },
-    "LYDIA_API_KEY": {
-      "description": "Needed for Lydia AI. Follow https://telegra.ph/Lydia-09-05 to get your API.",
-      "value": "",
-      "required": false
-    },
     "API_HASH": {
       "description": "Get this value from my.telegram.org! Putting Others Value May result In Account Ban.",
       "value": ""
@@ -120,12 +115,12 @@
     "HEROKU_API_KEY": {
       "description": "Go to https://dashboard.heroku.com/account, scroll down and press Reveal API.Required for updater to work.",
       "value": "",
-      "required": true
+      "required": false
     },
     "HEROKU_APP_NAME": {
       "description": "The Value of App Name you filled in right on top.Required for updater to work.",
       "value": "",
-      "required": true
+      "required": false
     },
     "TG_BOT_TOKEN_BF_HER": {
       "description": "Needed for inline buttons maker. Make a bot at [BotFather](http://telegram.dog/BotFather) and get the token of your bot. And Don't Forget To Turn on inline Mode on bot settings. Get it.",
@@ -155,7 +150,7 @@
       "required": false
     },
     "ONLINE_ALERT": {
-      "description": "Set it True for being informed by the Assistant Bot that UltraX is now working. Preferred and By-Default is True",
+      "description": "Set it True for being informed by the Assistant Bot that DaisyX is now working. Preferred and By-Default is True",
       "value": "True",
       "required": true
     },
