@@ -31,9 +31,8 @@ Enjoy Your Bot!!💝
 
 ## Devs & Contributors
 
-#### • INUKA ASITH    »»  <a href="https://github.com/InukaAsith" alt="InukaAsith"> <img src="https://img.shields.io/badge/InukaAsith-881D8D?logo=github" /></a> (ᴏᴡɴᴇʀ)
+#### • INUKA ASITH    »»  <a href="https://github.com/InukaAsith" alt="InukaAsith"> <img src="https://img.shields.io/badge/InukaAsith-881F8L?logo=github" /></a> (ᴏᴡɴᴇʀ)
 #### • LUCIFER_MORNINGSTAR    »»  <a href="https://github.com/lucifeermorningstar" alt="lucifeermorningstar"> <img src="https://img.shields.io/badge/lucifeermorningstar-90302f?logo=github" /></a> (ᴅᴇᴠ)
-#### • INUKA ASITH    »»  <a href="https://github.com/InukaAsith" alt="InukaAsith"> <img src="https://img.shields.io/badge/InukaAsith-881D8D?logo=github" /></a> (ᴏᴡɴᴇʀ)
 #### • ROSELOVERX  »»  <a href="https://github.com/Amarnathcdj" alt="RoseLoverX"> <img src="https://img.shields.io/badge/RoseLoverX-82CAFA?logo=github" /></a> (ᴅᴇᴠ)
 #### • INFOTECHBRO  »»  <a href="https://github.com/infotechbro" alt="infotechbro"> <img src="https://img.shields.io/badge/infotechbro-82CAFA?logo=github" /></a> (ᴜɪ ᴅᴇsɪɢɴᴇʀ)
 #### • LEGENDX     »»  <a href="https://github.com/legendXOp" alt="LegendXOp"> <img src="https://img.shields.io/badge/LegendX-92CALA?logo=github" /></a>
