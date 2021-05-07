@@ -63,7 +63,7 @@
       "value": ""
     },
     "PLUGIN_CHANNEL": {
-      "description": "skip or Create a private group add rose  then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
+      "description": "skip or Create a private group add @DaisyXBot  then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
       "value": "9999"
     },
     "PRIVATE_GROUP_BOT_API_ID": {
@@ -71,7 +71,7 @@
       "value": "99999"
     },
     "PRIVATE_GROUP_ID": {
-      "description": "skip or Create a private group add rose bot then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
+      "description": "skip or Create a private group add @DaisyXBot  then type /id. PLUGIN_CHANNEL and PRIVATE_GROUP_ID both values should be same",
       "value": "999999"
     },
     "PM_LOGGR_BOT_API_ID": {
