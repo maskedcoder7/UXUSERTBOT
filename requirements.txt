@@ -1,5 +1,5 @@
 Pillow>=5.3.0
-Skem==0.3.2
+Skem==0.3.3
 PyGithub
 pygifsicle
 PyDictionary
