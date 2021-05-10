@@ -1,4 +1,4 @@
-# DaisyX-UB
+# Daisy-X-UB
 
 <h3>☣️ The Most Powerfull UserBot ☣️</h3>
 
