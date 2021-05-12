@@ -1,6 +1,6 @@
 # Daisy-X-UB
 
-<h3>☣️ The Most Powerfull UserBot ☣️</h3>
+<h3>☣️ The Most Super Powerfull UserBot ☣️</h3>
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/f7c51539e67b483bb8d7749acca51d3a)](https://app.codacy.com/gh/TeamDaisyX/Daisy-X-UB?utm_source=github.com&utm_medium=referral&utm_content=TeamDaisyX/Daisy-X-UB&utm_campaign=Badge_Grade_Settings)
 [![Python 3.6](https://img.shields.io/badge/Python-3.6%20or%20newer-blue.svg)](https://www.python.org/downloads/release/python-360/)
@@ -40,6 +40,5 @@ Enjoy Your Bot!!💝
 ## Credits
 
 #### • ᴛᴇʟᴇʙᴏᴛ   »»  <a href="https://github.com/Xditya/telebot" alt="Telebot"> <img src="https://img.shields.io/badge/Telebot-800080?logo=github" /></a> 
-#### • ᴜʟᴛʀᴀ x   »»  <a href="https://github.com/Ultra-Op/Ultra-X" alt="UltraX"> <img src="https://img.shields.io/badge/UltraX-4B0082?logo=github" /></a> 
 #### • ᴅᴀʀᴋ ᴄᴏʙʀᴀ  »»  <a href="https://github.com/DARK-COBRA/DARKCOBRA" alt="DarkCobra"> <img src="https://img.shields.io/badge/DarkCobra-000000?logo=github" /></a> 
 
